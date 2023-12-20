@@ -1,8 +1,12 @@
 # Rice-Exports-Data-Analysis
 Rice Exports Data Analysis
+
 NAME : PRITHIYUMAN A
+
 BATCH: DW67DW68
+
 DOMAIN : DATA SCIENCE/Fast Moving Consumer Goods
+
 LINKED IN URL : LInkedin.com/in/prithiyuman-a-646332273/
 
 Answering Key Questions:
